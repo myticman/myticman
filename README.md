@@ -1,7 +1,7 @@
 # NAME: Sooplive
 # AUTHOR: blackmatrix7
 # REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/sooplive/sooplive.list
-# UPDATED: 2024-11-03 01:47:31
+# UPDATED: 2024-11-07 12:06:31
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 12
