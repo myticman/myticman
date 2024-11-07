@@ -1,7 +1,7 @@
 # NAME: Sooplive
 # AUTHOR: blackmatrix7
-# REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2024-02-03 01:47:31
+# REPO: https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/release/rule/Shadowrocket/sooplive/sooplive.list
+# UPDATED: 2024-11-03 01:47:31
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 8
 # IP-CIDR: 12
@@ -34,3 +34,4 @@ IP-CIDR,52.223.208.0/21,no-resolve
 IP-CIDR,52.223.224.0/19,no-resolve
 IP-CIDR,99.181.64.0/18,no-resolve
 
+M
